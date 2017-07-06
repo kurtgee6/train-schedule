@@ -1,0 +1,77 @@
+body {
+    background-color: #8093ad;
+}
+
+.jumbotron {
+    margin-top: 20px;
+    background: #3552f0;
+    color: black;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Shrikhand', cursive;
+}
+
+th,
+td,
+p {
+    font-family: 'Cantarell', sans-serif;
+    text-align: center;
+}
+
+tr {
+    background-color: #7ca6e0;
+    color: black;
+}
+
+#tableBorder {
+    border: 1px solid black;
+    background: #3552f0;
+}
+
+tr:hover {
+    background-color: #3552f0;
+    color: black;
+}
+
+.inputTable {
+    padding-bottom: 20px;
+    margin: 30px 0px;
+    border-radius: 14px;
+    background-color: #7ca6e0;
+    color: black;
+    margin-top: 0px;
+}
+
+input {
+    width: 1085px;
+    margin: 10px;
+    border: 1px solid #3a83e8;
+    height: 35px;
+    margin-top: 0px;
+    color: black;
+}
+
+#addChar {
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+    background-color: #3552f0;
+    margin-top: none;
+    padding: 0px;
+    margin: 0px;
+    color: black;
+}
+
+#submit {
+    margin: 10px;
+    border-radius: 5px;
+    width: 80px;
+    background-color: #3552f0;
+    height: 40px;
+}
+
+#submit:hover {
+    background-color: #8093ad;
+    color: white;
+}
